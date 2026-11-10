@@ -1,7 +1,7 @@
 # Access Hub
 
-**Use Claude Code, Cursor e Codex no mesmo projeto, troque de uma IA para outra a qualquer
-hora e nunca mais copie token para `.env`.**
+**Use Claude Code, Cursor, Codex e OpenCode no mesmo projeto, troque de uma IA para outra a
+qualquer hora e nunca mais copie token para `.env`.**
 
 O Access Hub é a central de quem desenvolve com IA no Windows: cofre de chaves por projeto,
 IDEs abertas já conectadas à pasta, scan de segurança e as senhas dos painéis dos clientes,
@@ -27,8 +27,8 @@ tudo criptografado no seu computador.
 
 ### IDEs conectadas com um clique
 
-- **Abrir nova sessão** no Claude Code, no Cursor ou no Codex, já na pasta do projeto. O
-  app mostra só as IDEs instaladas no computador.
+- **Abrir nova sessão** no Claude Code, no Cursor, no Codex ou no OpenCode, já na pasta do
+  projeto. O app mostra só as IDEs instaladas no computador.
 - **Servidor MCP do Access Hub** registrado na pasta: a IA consulta o projeto, os deploys
   da Vercel e o relatório de segurança sem nunca receber o token.
 - **Nota de passagem**: a sessão que estava trabalhando registra onde parou, e a próxima,
@@ -106,7 +106,7 @@ tudo criptografado no seu computador.
 4. Na primeira abertura, crie o cofre e cadastre o primeiro projeto.
 
 **Requisitos:** Windows 10 ou 11 (64 bits). Para abrir sessões pelo app, tenha instalado o
-Claude, o Cursor ou o Codex.
+Claude, o Cursor, o Codex ou o OpenCode.
 
 ## Atualizações
 
